@@ -1,0 +1,6 @@
+{
+  "name": "Tokyo Trust Capital",
+  "description": "An independent, bilingual real estate investment firm bridging global capital to Japanese excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
